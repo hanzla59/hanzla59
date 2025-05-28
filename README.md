@@ -43,7 +43,7 @@ I'm a **MERN Stack Developer** with a strong focus on building modern, scalable,
 ## 📫 Reach Me
 
 - ✉️ Email: hanzalatahir45@gmail.com
-- 🌐 Portfolio: [hanzlatahir.netlify.app]
+- 🌐 Portfolio: https://hanzlatahir.netlify.app/
 - 💼 LinkedIn: [linkedin.com/in/hanzla59](https://linkedin.com/in/hanzla59)
 
 ---
