@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Hanzla (@hanzla59)
 
-I'm a **MERN Stack Developer** with a strong focus on building modern, scalable, and performant web applications. I’m currently working at a software house where I contribute to real-world, production-level projects.
+I'm a **Full Stack Web Developer** with a strong focus on building modern, scalable, and performant web applications. I’m currently working at a software house where I contribute to real-world, production-level projects.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Currently working as a **MERN Stack Developer** in a professional software house.
+- 💼 Currently working as a **Fuull Stack Web Developer** in a professional software house.
 - 🌱 Actively sharpening my skills through **Coursera certifications** and advanced web development courses.
 - 🛠️ Experienced in building full-stack applications with **MongoDB**, **Express.js**, **React**, and **Node.js**.
 - 📦 I specialize in creating RESTful APIs, frontend interfaces, and admin dashboards.
